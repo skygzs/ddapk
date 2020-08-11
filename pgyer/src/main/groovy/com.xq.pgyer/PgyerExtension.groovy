@@ -1,8 +1,8 @@
 package com.xq.pgyer
 
 class PgyerExtension {
-    String _api_key = "89d9dc80bb48639514dfd9480f5a592d"
-    String uKey = "9bdce1d8eb394872f59d1ae37af09348"
+    String _api_key = "d72e59e0f86516ff413c31ed857754ca"
+    String uKey = "3fca2287bdb6bf3b6c45667ae942b4bb"
     /**
      * 安装方式： 2：密码安装，3：邀请安装
      */
